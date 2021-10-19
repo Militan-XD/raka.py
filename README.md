@@ -1,4 +1,4 @@
-# hpro
+# raka
 
 Ini adalah skrip dasar python tempat Anda dapat meretas atau mengkloning akun teman atau pengikut facebook siapa pun yang memiliki kata sandi sederhana.
 
@@ -13,11 +13,11 @@ apt instal python python2
 
 tepat menginstal git
 
-git clone https://github.com/Raka-Andrian/hpro.git
+git clone https://github.com/Raka-Andrian/raka.git
 
 # Cara Penggunaan
 
-cd hppro
+cd raka
 
 python2 raka.py
 
