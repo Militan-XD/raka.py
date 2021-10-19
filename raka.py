@@ -6,7 +6,7 @@ mencoba:
     impor bs4
 kecuali ModuleNotFoundError:
     os.system('pip install request fake_useragent bs4 futures')
-    os.system('python hop.py')
+    os.system('python raka.py')
 os.system('rm -rf .txt')
 untuk x dalam rentang(5000):
     n = random.randint(1111111, 9999999)
