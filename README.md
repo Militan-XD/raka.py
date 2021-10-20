@@ -28,5 +28,5 @@ Akun github ini tidak mewakili atau mempromosikan aktivitas ilegal apa pun. Guna
 
 
 # Kontak<br>
-<a href='https://facebook.com/GARANGAN.KECHE' target=_blank>Facebook</a> <br>
-<a href='https://instagram.com/militan' target=_blank>Instagram</a> <br>
+
+ [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/GARANGAN.KECHE) [![](https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=Brightpurple&labelColor=white)](https://instagram/militan2708)
