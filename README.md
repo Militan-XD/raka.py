@@ -13,7 +13,7 @@ apt instal python python2
 
 tepat menginstal git
 
-git clone https://github.com/Raka-Andrian/hpro.git
+git clone https://github.com/Raka-Andrian/raka.py
 
 # Cara Penggunaan
 
